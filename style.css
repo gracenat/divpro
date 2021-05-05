@@ -8,9 +8,19 @@
     height: 5%;
 }
 
+.navbar-light .navbar-nav .nav-link {
+    color: white;
+}
+
+.home {
+    margin-top: 70px;
+}
+
+
 @media (max-width: 768px) {
     .logo {
         width: 20%;
         height: 15%;
     }
+
 }
