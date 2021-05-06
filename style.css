@@ -3,6 +3,12 @@
     padding: 0;
 }
 
+body {
+    background-image: url(assets/bg-white.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .logo {
     width: 5%;
     height: 5%;
@@ -18,6 +24,10 @@
 
 .carousel-caption h5 {
     font-size: 20px;
+}
+
+.jumbotron {
+    background-color: transparent;
 }
 
 
