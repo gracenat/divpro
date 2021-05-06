@@ -13,7 +13,11 @@
 }
 
 .home {
-    margin-top: 70px;
+    margin-top: 55px;
+}
+
+.carousel-caption h5 {
+    font-size: 20px;
 }
 
 
